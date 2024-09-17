@@ -15,7 +15,7 @@ def main():
     parser = parse_args()
     args = parser.parse_args()
 
-    # Your caching proxy server implementation goes here
+    
     print(f'Starting caching proxy server on port {args.port} with origin {args.origin}')
     if args.clear_cache:
         print('Clearing cache')
