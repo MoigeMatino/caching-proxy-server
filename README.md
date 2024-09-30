@@ -32,7 +32,7 @@ The architecture consists of several key components:
 
 View full architecture diagram [here](https://app.eraser.io/workspace/BqxLDyT4Ua2c2rxuYazq?elements=TJfCVrKTpIU9w2tlnZ3gug)
 
-### Diagram:
+### Flowchart:
 
 ```mermaid
 graph TD;
